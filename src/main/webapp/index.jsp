@@ -11,7 +11,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome to Spring MVC JSP</h1>
+<h1>Welcome to Jenkins Integration</h1>
 </body>
 </html>
 </jsp:root>
